@@ -18,13 +18,13 @@ document.addEventListener('DOMContentLoaded', () => {
         bottom: 20px;
         right: 20px;
         padding: 10px 15px;
-        background-color: #4CAF50;
+        background-color: #6A5ACD;
         color: white;
         border: none;
         border-radius: 5px;
         cursor: pointer;
         font-size: 1rem;
-        box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+        box-shadow: 0 2px 5px rgb(18, 0, 122);
         z-index: 1000;
     `;
 
